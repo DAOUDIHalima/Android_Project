@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 // Create an Intent to navigate to the new activity
-                Intent intent = new Intent(MainActivity.this, WebView3D.class);
+                Intent intent = new Intent(MainActivity.this, MainActivity2.class);
 
                 // Start the new activity
                 startActivity(intent);
