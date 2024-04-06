@@ -1,7 +1,18 @@
 <resources>
     <string name="app_name">AndroidProject</string>
-    <string name="hello">Hello</string>
+    <string name="hello">Welcome to an unforgettable adventure
+of the solar system.
+Click the button below to start !</string>
     <string name="startbtn">Start!</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">login</string>
+    <string name="email">Your Email</string>
+    <string name="password">Your Password</string>
+    <string name="loginBtn">Login</string>
+    <string name="register">Register</string>
+    <string name="registerBtn">Register</string>
+    <string name="toLogin">Click to login</string>
+    <string name="toReg">Click to register</string>
+    <string name="logout">Logout</string>
 </resources>

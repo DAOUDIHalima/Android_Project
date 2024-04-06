@@ -7,7 +7,18 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity2">
 
-
+<androidx.appcompat.widget.Toolbar
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/toolbar"
+    android:background="@color/black"
+    app:logo="@drawable/logo1"
+    app:title="Space Explorer"
+    app:titleMarginTop="30dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+    app:layout_constraintTop_toTopOf="parent"
+    />
     <FrameLayout
         android:id="@+id/frame_layout"
         android:layout_width="0dp"

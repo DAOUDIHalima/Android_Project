@@ -11,6 +11,8 @@ import android.webkit.WebChromeClient;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
+import com.google.firebase.auth.FirebaseAuth;
+
 
 public class HomeFragment extends Fragment {
 
